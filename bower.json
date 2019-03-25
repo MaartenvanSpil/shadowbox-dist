@@ -1,0 +1,26 @@
+{
+  "name": "Shadowbox",
+  "authors": [
+    " Michael J. I. Jackson"
+  ],
+  "description": "",
+  "main": [
+	"shadowbox.js",
+	"shadowbox.css",
+	"previous.png",
+	"play.png",
+	"pause.png",
+	"next.png",
+	"loading.gif",
+	"close.png",
+  ],
+  "license": "GPL-3.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
